@@ -1,0 +1,21 @@
+.detector {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+}
+
+#bloque {
+    align-items: center;
+    background-color: blue;
+    display: flex;
+    height: 300px;
+    justify-content: center;
+    margin-block: 2em;
+    text-align: center;
+    width: 300px;
+}
+
+#bloque p {
+    color: white;
+    font-weight: bold;
+}
