@@ -1,0 +1,9 @@
+.bloque {
+    background-color: #ffa566;
+    padding: 1em 2em;
+}
+
+#bloque p {
+    color: white;
+    font-weight: bold;
+}
