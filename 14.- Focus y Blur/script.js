@@ -1,5 +1,3 @@
-window.addEventListener("DOMContentLoaded", main)
-
 $(document).ready(main) 
 
 function main() {
