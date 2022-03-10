@@ -1,0 +1,52 @@
+:root {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bloque {
+    align-items: center;
+    background-color: palegreen;
+    display: grid;
+    height: 300px;
+    margin: 2em;
+    text-align: center;
+    width: 600px;
+}
+
+#bloque p {
+    color: white;
+    font-weight: bold;
+}
+
+.btn {
+    background-color: #fa8176;
+    border: none;
+    border-radius: 2em;
+    color: white;
+    font-size: 1em;
+    font-weight: bold;
+    padding: 1em 2em;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #d85f54;
+}
+
+.btn-green {
+    background-color: rgb(119, 218, 119);
+}
+
+.btn-green:hover {
+    background-color: rgb(72, 139, 72);
+}
+
+.italic {
+    font-style: italic;
+}
+
+.resaltado {
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+}
