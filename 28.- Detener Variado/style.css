@@ -19,3 +19,16 @@
     color: white;
     font-weight: bold;
 }
+
+.btn {
+    background-color: #fa8176;
+    border: none;
+    border-radius: 2em;
+    color: white;
+    font-weight: bold;
+    padding: 1em 2em;
+}
+
+.btn:hover {
+    background-color: #d85f54;
+}
